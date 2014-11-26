@@ -1,4 +1,6 @@
 
+[![NPM](https://nodei.co/npm/node-lru.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-lru/)
+
 Node LRU Cache
 ==================
 基于Nodejs开发的LRU Cache, 兼有缓存超时清除功能
