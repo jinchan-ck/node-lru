@@ -7,15 +7,28 @@
   "scripts": {
     "test": "tape test/*.js"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/sweetvvck/node-lru.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sweetvvck/node-lru.git"
   },
-  "bugs" : {
-    "url" : "https://github.com/sweetvvck/node-lru/issues"
+  "bugs": {
+    "url": "https://github.com/sweetvvck/node-lru/issues"
   },
   "devDependencies": {
     "tape": "2.12.3",
     "debug": "0.8.1"
-  }
+  },
+  "homepage": "https://github.com/sweetvvck/node-lru",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "tape": "^2.12.3",
+    "debug": "^0.8.1"
+  },
+  "keywords": [
+    "node",
+    "lru"
+  ],
+  "license": "MIT"
 }
